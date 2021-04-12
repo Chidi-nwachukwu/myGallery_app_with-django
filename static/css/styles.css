@@ -1,0 +1,25 @@
+*{
+    background-color: navajowhite;
+}
+.main {
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color:orange;
+    padding-right: 20%;
+
+}
+.apex {
+    width: 25%;
+    height: 400px;
+    margin: 0 10px 0 10px;
+    padding-right: 20%;
+    display: block;
+    indent-edge-reset: border-edge;
+}
+.image{
+    width: 200%;
+    height: 300px;
+    display: block;
+
+}
